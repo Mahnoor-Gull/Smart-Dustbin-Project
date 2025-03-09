@@ -39,6 +39,6 @@ The **Smart Dustbin** is an Arduino-based project that uses an **ultrasonic sens
 🔹 Integrate an **LED indicator** for bin status  
 🔹 Implement **IoT connectivity** for smart tracking   
 
-<!-- Uploading "Ultra sonic_edit_0.gif"... -->
+![Image](https://github.com/user-attachments/assets/3966b687-b441-4351-9edf-a2d745f53030)
 
 ---
